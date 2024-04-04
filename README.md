@@ -16,7 +16,7 @@ O Nmap fornece uma opção para detectar a versão dos serviços em execução n
 -sV
 ```
 
-Aumentar a verbosidade?
+Aumentar a verbosidade? :shipit:
 
 -V
 
