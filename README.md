@@ -45,7 +45,7 @@ Um formato de saída muito útil: como você salvaria os resultados em um format
 
 Para ativar essa configuração:
 ```
--A
+-A 
 ```
 
 O Nmap oferece cinco níveis de modelo de "tempo". Eles são usados ​​essencialmente para aumentar a velocidade de execução da verificação. **Porém, tenha cuidado: velocidades mais altas são mais barulhentas e podem causar erros!**
